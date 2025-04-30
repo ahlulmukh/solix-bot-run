@@ -30,7 +30,7 @@ uname -m
 
 ### For Windows
 
-1. Download the latest release: [Download Solix for Windows](https://github.com/ahlulmukh/solix-bot-run/releases/download/1.0.0/solix.exe).
+1. Download the latest release: [Download Solix for Windows](https://raw.githubusercontent.com/ahlulmukh/solix-bot-run/main/bin/solix-bot-windows/solix-bot.exe).
 2. Execute the downloaded file.
 3. Enter your config
 
@@ -39,16 +39,16 @@ uname -m
 1. download file.
 
    ```bash
-   wget https://github.com/ahlulmukh/solix-bot-run/releases/download/1.0.0/solix-linux-amd64
+   wget https://raw.githubusercontent.com/ahlulmukh/solix-bot-run/main/bin/solix-bot-linux-amd64/solix-bot-amd64
    ```
 
 2. Give permession.
    ```bash
-   chmod +x solix-linux-amd64
+   chmod +x solix-bot-amd64
    ```
 3. Run it.
    ```bash
-   ./solix-linux-amd64
+   ./solix-bot-amd64
    ```
 
 ### For Linux arm64
@@ -56,16 +56,16 @@ uname -m
 1. download file.
 
    ```bash
-   wget https://github.com/ahlulmukh/solix-bot-run/releases/download/1.0.0/solix-linux-arm64
+   wget https://raw.githubusercontent.com/ahlulmukh/solix-bot-run/main/bin/solix-bot-linux-arm64/solix-bot-arm64
    ```
 
 2. Give permession.
    ```bash
-   chmod +x solix-linux-arm64
+   chmod +x solix-bot-arm64
    ```
 3. Run it.
    ```bash
-   ./solix-linux-arm64
+   ./solix-bot-arm64
    ```
 
 ## Stay Connected
