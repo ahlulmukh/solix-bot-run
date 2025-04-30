@@ -28,7 +28,7 @@ uname -m
 
 ### For Windows
 
-1. Download the latest release: [Download MegaETH for Windows](https://github.com/ahlulmukh/solix-bot-run/releases/download/1.0.0/solix.exe).
+1. Download the latest release: [Download Solix for Windows](https://github.com/ahlulmukh/solix-bot-run/releases/download/1.0.0/solix.exe).
 2. Execute the downloaded file.
 3. Enter your config
 
