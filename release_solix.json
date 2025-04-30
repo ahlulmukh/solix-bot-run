@@ -1,17 +1,17 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "windows": {
     "url": "https://raw.githubusercontent.com/ahlulmukh/solix-bot-run/main/bin/solix-bot-windows/solix-bot.exe",
-    "checksum": "5ffcdce44e4dcc14047309c75c377f67273b1edc4e38512802d48a8c54f2e5de"
+    "checksum": "d9d643d42effbfeba920f846df5d032dfc567e1c23eef013e6a0b9e2466d07ba"
   },
   "linux": {
     "amd64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/solix-bot-run/main/bin/solix-bot-linux-amd64/solix-bot-amd64",
-      "checksum": "e8ae05d4495eebeb069139794db227078b077c4b4f680c037d4cda7df8191bb4"
+      "checksum": "5ad4a8dc85015de28acff8c7ff399db0da19badcc537ede1cf79a40a3a5693e1"
     },
     "arm64": {
       "url": "https://raw.githubusercontent.com/ahlulmukh/solix-bot-run/main/bin/solix-bot-linux-arm64/solix-bot-arm64",
-      "checksum": "8ba093a29f4dad7057a2ce485442ba82531e5cfce0c999e46e03a0152ed73ba6"
+      "checksum": "422632f5f2004c4487b309fddf6dc330f4dd8f4a3676152f19f1e9af0b7be7b4"
     }
   }
 }
