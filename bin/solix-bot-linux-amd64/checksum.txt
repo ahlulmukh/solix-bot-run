@@ -1,1 +1,1 @@
-0b5dd5723bd91e4c0bdfa321c8f77d196e759d29ca9ed5f42189000eb1232a7b  solix-bot-amd64
+f65104b2e9531c1b9a0da4a8b6295a4d3062a0c8d5bea92ebaad52937ebbbe3c  solix-bot-amd64
