@@ -28,25 +28,25 @@ uname -m
 
 ### For Windows
 
-1. Download the latest release: [Download MegaETH for Windows](https://github.com/ahlulmukh/megaeth-bot/releases/download/1.0.0/megaeth.exe).
+1. Download the latest release: [Download MegaETH for Windows](https://github.com/ahlulmukh/solix-bot-run/releases/download/1.0.0/solix.exe).
 2. Execute the downloaded file.
-3. Enter your private key in the command line when prompted.
+3. Enter your config
 
 ### For Linux amd64
 
 1. download file.
 
    ```bash
-   wget https://github.com/ahlulmukh/megaeth-bot/releases/download/1.0.0/megaeth-linux-amd64
+   wget https://github.com/ahlulmukh/solix-bot-run/releases/download/1.0.0/solix-linux-amd64
    ```
 
 2. Give permession.
    ```bash
-   chmod +x megaeth-linux-amd64
+   chmod +x solix-linux-amd64
    ```
 3. Run it.
    ```bash
-   ./megaeth-linux-amd64
+   ./solix-linux-amd64
    ```
 
 ### For Linux arm64
@@ -54,16 +54,16 @@ uname -m
 1. download file.
 
    ```bash
-   wget https://github.com/ahlulmukh/megaeth-bot/releases/download/1.0.0/megaeth-linux-arm64
+   wget https://github.com/ahlulmukh/solix-bot-run/releases/download/1.0.0/solix-linux-arm64
    ```
 
 2. Give permession.
    ```bash
-   chmod +x megaeth-linux-arm64
+   chmod +x solix-linux-arm64
    ```
 3. Run it.
    ```bash
-   ./megaeth-linux-arm64
+   ./solix-linux-arm64
    ```
 
 ## Stay Connected
