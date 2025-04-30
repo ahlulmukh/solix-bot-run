@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "windows": {
+    "url": "https://raw.githubusercontent.com/ahlulmukh/solix-bot-run/main/bin/solix-bot-windows/solix-bot.exe",
+    "checksum": "9bdfd6833d38c251b9e38dc099cfda0a35b849c3200a23f678282ff21498dfc5"
+  },
+  "linux": {
+    "url": "https://raw.githubusercontent.com/ahlulmukh/solix-bot-run/main/bin/solix-bot-linux/solix-bot",
+    "checksum": ""
+  }
+}
