@@ -2,6 +2,8 @@
 
 For auto referral and auto running
 
+![Screenshot](img.jpg)
+
 ## Requirements
 
 - **Solix Account**: [Solix Depin](https://dashboard.solixdepin.net/sign-up?ref=Lu3VS45E).
