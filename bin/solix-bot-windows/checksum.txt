@@ -1,3 +1,3 @@
 SHA256 hash of solix-bot.exe:
-d9d643d42effbfeba920f846df5d032dfc567e1c23eef013e6a0b9e2466d07ba
+a20990886b8407ab71675998321d754915721a5d1778fac74ed5cc6fd0259c78
 CertUtil: -hashfile command completed successfully.
